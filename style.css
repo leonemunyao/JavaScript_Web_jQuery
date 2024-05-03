@@ -1,0 +1,12 @@
+button {
+    font-family: "helvetica name", "helvetica", sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border: 2px solid rgb(200 200 0 / 60%);
+    background-color: rgb(0 217 217 0 / 60%);
+    color: rgb(100 0 0 / 100%);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    padding: 3px 10px;
+    cursor: pointer;
+}
